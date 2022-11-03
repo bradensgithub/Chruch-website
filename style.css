@@ -1,3 +1,4 @@
+
 /* CSS Document */
 
 body, html{
@@ -29,20 +30,20 @@ body, html{
 }
 
 .pimg1{
-	background-image: url("images/img1.jpg");
-	min-height: 100%;
+	background-image: url("churchlandscape.jpeg");
+	min-height: 75%;
 	
 }
 
 .pimg2{
-	background-image: url("images/img4.jpg");
-	min-height: 400px;
+	background-image: url("vbscrew.jpeg");
+	min-height: 75%;
 	
 }
 
 .pimg3{
-	background-image: url("images/img5.jpg");
-	min-height: 400px;
+	background-image: url("jackpreaching.jpeg");
+	min-height: 75%;
 	
 }
 
@@ -109,6 +110,11 @@ a:hover{
 		background-attachment: scroll;
 	}
 }
+
+
+
+
+
 
 
 
